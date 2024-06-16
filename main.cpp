@@ -10,7 +10,7 @@ Model *model = NULL;
 const int width = 1000;
 const int height = 1000;
 
-// Lesson 1: Bresenham's Line Drawing Algorithm
+// Lesson 1: Bresenham's Line Drawing Algorithm. First steps
 // First Attempt
 // void line(int x0, int y0, int x1, int y1, TGAImage &image, TGAColor color)
 // {
